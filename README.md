@@ -6,7 +6,8 @@
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/covid19-dashboard.git
+git clone https://github.com/anpabeltj/covid19-dashboard.git
+
 
 # Install
 pip install -r requirements.txt
